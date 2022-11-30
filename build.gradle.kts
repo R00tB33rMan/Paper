@@ -63,7 +63,7 @@ repositories {
 dependencies {
     paramMappings("net.fabricmc:yarn:1.19.2+build.28:mergedv2")
     remapper("net.fabricmc:tiny-remapper:0.8.6:fat")
-    decompiler("net.minecraftforge:forgeflower:1.5.605.7")
+    decompiler("net.minecraftforge:forgeflower:1.5.605.10")
     spigotDecompiler("io.papermc:patched-spigot-fernflower:0.1+build.6")
     paperclip("io.papermc:paperclip:3.0.2")
 }
